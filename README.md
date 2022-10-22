@@ -1,4 +1,3 @@
-### Hi there 👋
+### Hi there, Im a Game Designer from the UK 👋
 
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: contact.thinktankgames@gmail.com
+ 📫 How to reach me: contact.thinktankgames@gmail.com
